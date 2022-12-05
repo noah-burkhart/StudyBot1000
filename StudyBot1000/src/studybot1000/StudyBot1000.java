@@ -14,7 +14,11 @@ public class StudyBot1000 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        
+        //THIS WORKS
+        System.out.println("this works");
+         
     }
     
 }
