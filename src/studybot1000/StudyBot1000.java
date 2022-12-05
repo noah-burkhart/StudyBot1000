@@ -15,7 +15,10 @@ public class StudyBot1000 {
      */
     public static void main(String[] args) {
         
-         
+         Question q = new Question("title", "one", "two", "three", "four");
+         System.out.println(q.toString());
+         q.shuffle();
+         System.out.println(q.toString());
     }
     
 }
