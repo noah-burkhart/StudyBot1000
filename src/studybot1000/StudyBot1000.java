@@ -19,6 +19,7 @@ public class StudyBot1000 {
         //THIS WORKS
         System.out.println("this works");
         System.out.println("push works");
+        //this has to be pulled
          
     }
     
