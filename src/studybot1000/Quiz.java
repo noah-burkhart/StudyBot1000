@@ -1,12 +1,25 @@
 package studybot1000;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 
 public class Quiz {
 
     private ArrayList<Question> questions;
     private int score;
-    private int size;
+
+    //constructors
+    public Quiz() {
+        questions = null;
+        score = 0;
+        size = 0;
+    }
+
+    public Quiz(ArrayList<Question> q) {
+        this();
+        questions = q;
+    }
 
     public Question getQuestion(int index) {
         return questions.get(index);
@@ -25,7 +38,7 @@ public class Quiz {
     }
 
     public int getSize() {
-        return size;
+        return questions.size();
     }
 
     public void addQuestion(Question q) {
@@ -48,15 +61,19 @@ public class Quiz {
         score = 0;
     }
 
-    public Quiz() {
-        questions = null;
-        score = 0;
-        size = 0;
-    }
+    public void shuffle() {
 
-    public Quiz(ArrayList<Question> q) {
-        this();
-        questions = q;
+        Question[] qs = new Question[questions.size()];
+        for (int i = 0; i < questions.size(); i++) {
+            qs[i] = questions.get(i);
+        }
+        var questionList = Arrays.asList(qs);
+        Collections.shuffle(questionList);
+        questionList.toArray(qs);
+
+        for (int i = 0; i < questions.size(); i++) {
+            questions.set(i, qs[i]);
+        }
     }
 
 }
