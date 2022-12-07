@@ -1,1 +1,60 @@
-
+A combination of software (and sometimes hardware) that provides a solution for a problem.\nInvolves:\nThe client (the request and $)\nAnalysts\nDesigners & developers\nTesters\nUsers\nOthers (e.g. lawyers, communications officers, specialists etc)
+What is a system?
+combination of software (and sometimes hardware) that provides a solution for a problem
+combination of methods
+a method that solves many problems
+a method that solves one problem
+Success may be measured by answering the following questions:\nDoes the project solve what it was meant to solve?\nIs it easy to maintain and administer?\nIs it scalable to meet the needs of the client?\nIs there a successful support system in place for the client?\nWas it delivered on time and ready to go?\nWas the client happy with the finished product?
+Which one of the following does not measure success in the project?
+If the project workers spent a lot of time on the project
+If it solves the problem
+If it is easy to maintain
+Is it scalable
+Developed by Dr Winston Royce in 1970 based on his experience developing software for spacecraft mission planning\nThe Waterfall Model consists of several phases: \nProblem Statement\nAnalysis \nDesign \nImplementation \nIntegration /Test\nMaintenance 
+Why is it called the “waterfall model”?
+A mistake made in one phase often requires the developer to backup and redo some of the work in the previous phase
+It was created by a waterfall enthusiast
+A mistake made in a past phase cannot be fixed
+A mistake made in a past phase can be fixed in the phase they are in
+Computer scientists have created a view of the software development process known as the ‘software development life cycle’ (SDLC)
+What does SDLC stand for?
+Software Development Life Cycle
+Software Determiner Life Cycle
+Software Development List Control
+Software Determiner List Control
+Developed by Dr Winston Royce in 1970 based on his experience developing software for spacecraft mission planning\nThe Waterfall Model consists of several phases: \nProblem Statement\nAnalysis \nDesign \nImplementation \nIntegration /Test\nMaintenance 
+Who developed the Waterfall Model?
+Winston Royce
+Victoria He
+Noah Burkhart
+Jack Luhta
+Developed by Dr Winston Royce in 1970 based on his experience developing software for spacecraft mission planning\nThe Waterfall Model consists of several phases: \nProblem Statement\nAnalysis \nDesign \nImplementation \nIntegration /Test\nMaintenance 
+How many phases are in the Waterfall Model
+6
+4
+5
+7
+Developed by Dr Winston Royce in 1970 based on his experience developing software for spacecraft mission planning\nThe Waterfall Model consists of several phases: \nProblem Statement\nAnalysis \nDesign \nImplementation \nIntegration /Test\nMaintenance 
+Which of the following is not apart Waterfall
+Review
+Problem Statement
+Design
+Integration
+Mistakes found early in the SDLC are much less expensive to correct than those found later
+Which phase will a mistake cost the most in
+Maintenance
+Analysis
+Integration
+Design
+The cost of developing software is not spread equally over the phases: \nIntegration - 8%\nImplementation - 8%\nDesign - 8%\nAnalysis - 8%\nMaintenance - 68%
+What percent of cost does integration take?
+8%
+69%
+6%
+68%
+Developed by mechanical engineer Henry Gantt in the 1910’s.\nTool typically used by people working on a large project; \n\tHoover Dam \n\tEisenhower National Defense Interstate Highway System/nHelps project managers to visualize, schedule, and track scheduled as well as actual progress of projects
+What does a Gantt chart do?
+All
+Helps project managers to visualize the progress of projects
+Helps project managers schedule work
+Helps project managers to visualize time management
