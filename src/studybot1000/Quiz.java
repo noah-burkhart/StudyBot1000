@@ -13,7 +13,6 @@ public class Quiz {
     public Quiz() {
         questions = null;
         score = 0;
-        size = 0;
     }
 
     public Quiz(ArrayList<Question> q) {
