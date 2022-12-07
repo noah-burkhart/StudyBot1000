@@ -22,19 +22,19 @@ Software Development Life Cycle
 Software Determiner Life Cycle
 Software Development List Control
 Software Determiner List Control
-Developed by Dr Winston Royce in 1970 based on his experience developing software for spacecraft mission planning\nThe Waterfall Model consists of several phases: \nProblem Statement\nAnalysis \nDesign \nImplementation \nIntegration /Test\nMaintenance 
+Developed by Dr Winston Royce in 1970 based on his experience developing software for spacecraft mission planning
 Who developed the Waterfall Model?
 Winston Royce
 Victoria He
 Noah Burkhart
 Jack Luhta
-Developed by Dr Winston Royce in 1970 based on his experience developing software for spacecraft mission planning\nThe Waterfall Model consists of several phases: \nProblem Statement\nAnalysis \nDesign \nImplementation \nIntegration /Test\nMaintenance 
+The Waterfall Model consists of several phases: \nProblem Statement\nAnalysis \nDesign \nImplementation \nIntegration /Test\nMaintenance 
 How many phases are in the Waterfall Model
 6
 4
 5
 7
-Developed by Dr Winston Royce in 1970 based on his experience developing software for spacecraft mission planning\nThe Waterfall Model consists of several phases: \nProblem Statement\nAnalysis \nDesign \nImplementation \nIntegration /Test\nMaintenance 
+(Problem Statement, Analysis, Design, Implementation, Integration /Test, Maintenance) 
 Which of the following is not apart Waterfall
 Review
 Problem Statement
