@@ -15,10 +15,10 @@ import java.util.Collections;
 public class Question {
 
     //attributes
-    String title;
-    String answer;
-    String opt1, opt2, opt3, opt4;
-    boolean correct;
+    private String title;
+    private String answer;
+    private String opt1, opt2, opt3, opt4;
+    private boolean correct;
 
     //constructor
     public Question(String title, String opt1, String opt2, String opt3, String opt4) {
@@ -88,24 +88,20 @@ public class Question {
     //behaviours
     public void shuffle() {
         String[] stringArr = {opt1, opt2, opt3, opt4};
-        
+
         var stringList = Arrays.asList(stringArr);
         Collections.shuffle(stringList);
         stringList.toArray(stringArr);
-        
+
         opt1 = stringArr[0];
         opt2 = stringArr[1];
         opt3 = stringArr[2];
         opt4 = stringArr[3];
     }
 
-    
-    
     @Override
     public String toString() {
         return "Question{" + "title=" + title + ", answer=" + answer + ", opt1=" + opt1 + ", opt2=" + opt2 + ", opt3=" + opt3 + ", opt4=" + opt4 + ", correct=" + correct + '}';
     }
-    
-    
 
 }
