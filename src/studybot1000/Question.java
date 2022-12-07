@@ -5,7 +5,6 @@ Class used to represent a question on the quiz.
  */
 package studybot1000;
 
-import java.awt.List;
 import java.util.Arrays;
 import java.util.Collections;
 
